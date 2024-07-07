@@ -10,9 +10,7 @@ Develop a system to identify and report anomalies in a dataset of financial tran
 - [Requirements](#requirements)
 - [Project Specifications](#project-specifications)
 - [Setup and Deployment](#setup-and-deployment)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 
